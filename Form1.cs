@@ -19,7 +19,7 @@ namespace formulario_ivaniaguzman
 
         private void button1_Click(object sender, EventArgs e) 
         {
-            label1.Text = "Ivania Matas";
+            label1.Text = "Ivania Guzman";
             label2.Text = "Monica Campos";
             label3.Text = "Lorena Rodiguez";
             label4.Text = "Fredy Campos";
