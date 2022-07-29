@@ -17,9 +17,14 @@ namespace formulario_ivaniaguzman
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) 
         {
             label1.Text = "Ivania Matas";
+            label2.Text = "Monica Campos";
+            label3.Text = "Lorena Rodiguez";
+            label4.Text = "Fredy Campos";
+            label5.Text = "Cristian Herrera";
+
 
         }
 
